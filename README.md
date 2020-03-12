@@ -1,0 +1,2 @@
+# mypy
+learning some python 
